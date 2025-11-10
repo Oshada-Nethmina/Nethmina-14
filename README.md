@@ -10,16 +10,16 @@ Hi, I'm **Oshada nethmina**, a [your role – e.g., Full-Stack Developer] based 
 - 🌱 I’m currently learning: [Technology/language/tool]
 - 👯 I’m looking to collaborate on: Open-source or freelance projects
 - 💬 Ask me about: Web development, UI/UX, and APIs
-- 📫 How to reach me: [your.email@example.com]
+- 📫 How to reach me: [oshadanethminamunasingha@gmail.com]
 - 🌐 Portfolio Website: [https://your-portfolio-site.com](https://your-portfolio-site.com)
 
 ## 🛠️ Technologies & Tools
 
-- 💻 Languages: HTML, CSS, JavaScript, TypeScript, Python
-- ⚙️ Frameworks: React, Node.js, Express, Django
+- 💻 Languages: HTML, CSS, JavaScript, TypeScript, Python, java
+- ⚙️ Frameworks: React, Node.js, Express, Django, Springboot, ReactNative
 - 🛢️ Databases: MongoDB, MySQL, PostgreSQL
 - 🔧 Tools: Git, GitHub, VSCode, Postman, Docker
-- ☁️ Platforms: Netlify, Vercel, Firebase, AWS
+- ☁️ Platforms: Vercel, Firebase, AWS
 
 ## 📂 Projects
 
