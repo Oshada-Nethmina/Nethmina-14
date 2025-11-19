@@ -174,7 +174,9 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 
 ## 👣 **Footer**
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+</p>
   <br>
   <p>✨ Made with passion by <b>Oshada Nethmina</b> ✨</p>
 </div>
