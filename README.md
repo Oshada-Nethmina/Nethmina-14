@@ -109,7 +109,7 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 
 * 🚀 **2022:** Started learning programming
 * 💻 **2023:** Built my first full-stack applications
-* 📱 **2024:** Learned Flutter & backend development
+* 📱 **2024:** Learned React Native & backend development
 * 🔐 **2025:** Diving deeper into Cyber Security & AI/ML
 
 ---
@@ -154,11 +154,11 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 
 ## 🐍 **Contribution Snake Animation**
 
-<div align="center">
-
-![Snake animation](https://github.com/Oshada-Nethmina/Oshada-Nethmina/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<h2 align="center">🐍 Contribution Activity</h2>
+# 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" width="100%">
+</p>
 
 ---
 
